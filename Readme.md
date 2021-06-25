@@ -2,5 +2,5 @@
 
 ### Installation Instructions
 
-* git clone
+* git clone https://github.com/rawatprince/expression-evaluator.git
 * Run **gradle clean build**
